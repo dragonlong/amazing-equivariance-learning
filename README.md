@@ -34,4 +34,3 @@ _Jiehong Lin, Hongyang Li, Ke Chen, Jiangbo Lu, and Kui Jia_
 
 ##### • \[2021 NeurIPS\] Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation [\[PDF\]](http://arxiv.org/abs/2111.00190) [\[Code\]](https://github.com/dragonlong/equi-pose)
 _Xiaolong Li, Yijia Weng, Li Yi, Leonidas Guibas, A. Lynn Abbott, Shuran Song, He Wang_
-Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation
