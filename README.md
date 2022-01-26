@@ -10,7 +10,7 @@
    - [Videos](#resources-videos)
 
 \* indicates equal contribution
-## Theories
+## 1. Theories
 <!-- ##### \[2021 ICCV\](https://arxiv.org/abs/2109.14744) The Object at Hand: Automated Editing for Mixed Reality Video Guidance from Hand-Object Interactions. [\[PDF\]](https://arxiv.org/pdf/2109.14744)
 _Yao Lu, Walterio W. Mayol-Cuevas_ -->
 
@@ -22,24 +22,25 @@ _Maurice Weiler, Gabriele Cesa_
 _Yao Lu, Walterio W. Mayol-Cuevas_
 
 ##### \[2021 NeurIPS\] Automatic Symmetry Discovery with Lie Algebra Convolutional Network. [[PDF]](https://openreview.net/pdf?id=NPOWF_ZLfC5)
+_Nima Dehmamy, Robin Walters, Yanchen Liu, Dashun Wang, Rose Yu_
 
 ##### \[2021 Arxiv\] E(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials. [\[PDF\]](https://arxiv.org/pdf/2101.03164v3.pdf)
-Simon Batzner∗, Albert Musaelian, Lixin Sun, Mario Geiger,  Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Tess E. Smidt, and Boris Kozinsky
+_Simon Batzner, Albert Musaelian, Lixin Sun, Mario Geiger,  Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Tess E. Smidt, and Boris Kozinsky_
 
 
-## Applications
-### Segmentation
-##### \[CVPR 2020 Oral\]Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation.[\[PDF\]](https://arxiv.org/pdf/2004.04581.pdf)
+## 2. Applications
+### 2.1 Segmentation
+##### \[2020 CVPR Oral\]Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation.[\[PDF\]](https://arxiv.org/pdf/2004.04581.pdf)
 _Yude Wang, Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen_
 
-### Pose estimation
-##### \[CVPR 2020\] Learning to Orient Surfaces by Self-supervised Spherical CNNs [\[PDF\]](https://arxiv.org/pdf/2011.03298.pdf)
+### 2.2 Pose estimation
+##### \[2020 CVPR\] Learning to Orient Surfaces by Self-supervised Spherical CNNs [\[PDF\]](https://arxiv.org/pdf/2011.03298.pdf)
 _Riccardo Spezialetti, Federico Stella, Marlon Marcon, Luciano Silva, Samuele Salti, Luigi Di Stefano_
 
 ##### \[2021 NeurIPS\] Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation [\[PDF\]](http://arxiv.org/abs/2111.00190) [\[Code\]](https://github.com/dragonlong/equi-pose)
 _Xiaolong Li, Yijia Weng, Li Yi, Leonidas Guibas, A. Lynn Abbott, Shuran Song, He Wang_
 
-### Tracking
+### 2.3 Tracking
 ##### \[2020 AAAI\] Exploiting Spatial Invariance for Scalable Unsupervised Object Tracking. [\[PDF\]](https://arxiv.org/pdf/2109.14744)
 _Eric Crawford, Joelle Pineau_
 
@@ -52,7 +53,7 @@ _Robin Walters, Jinxi Li, Rose Yu_
 ##### \[2022 ICLR\] MULTI-AGENT MDP HOMOMORPHIC NETWORKS [\[PDF\]](https://arxiv.org/pdf/2110.04495.pdf)
 _Elise van der Pol, Herke van Hoof, Frans A. Oliehoek, Max Welling_
 
-### Action Recognition
+### 2.4 Action Recognition
 
 ##### \[2021 ICCV\] Time-Equivariant Contrastive Video Representation Learning [[PDF]](https://arxiv.org/pdf/2112.03624.pdf)
 _Simon Jenni, Hailin Jin_
